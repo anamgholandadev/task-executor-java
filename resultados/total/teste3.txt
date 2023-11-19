@@ -1,0 +1,1 @@
+Tempo gasto na etapa de Processamento: 2789ms
